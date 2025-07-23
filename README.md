@@ -55,7 +55,7 @@ This project addresses inefficiencies in the OPD patient registration and receip
 - Long queues & doctor counter congestion
 - Redundant data entry in books and systems
 
-🖼️ ![As-Is Process Map](images/As-Is Process Map.png) <!-- Upload this image -->
+🖼️ ![As-Is Process Map](Images/As-Is Process Map.png) <!-- Upload this image -->
 
 ### 🔸 To-Be Process (Redesigned)
 
@@ -64,7 +64,7 @@ This project addresses inefficiencies in the OPD patient registration and receip
 - Doctor dashboard with profile & report access
 - AI-assisted report review
 
-🖼️ ![To-Be Process Map](images/To-Be Process Map.png) <!-- Upload this image -->
+🖼️ ![To-Be Process Map](Images/To-Be Process Map.png) <!-- Upload this image -->
 
 ---
 
@@ -85,11 +85,11 @@ All screens were designed using UI tools. Here are some key pages:
 
 | Interface         | Screenshot                                       |
 | ----------------- | ------------------------------------------------ |
-| Doctor Dashboard  | ![Doctor Dashboard](images/Doctor Dashboard.png) |
-| Prescription Page | ![Prescription](images/Prescription.png)         |
-| Patient Register  | ![Register](images/Register.png)                 |
-| Counter Login     | ![Login](images/ui-counter-login.png)            |
-| Smart Token       | ![Token](images/ui-smart-token.png)              |
+| Doctor Dashboard  | ![Doctor Dashboard](Images/Doctor Dashboard.png) |
+| Prescription Page | ![Prescription](Images/Prescription.png)         |
+| Patient Register  | ![Register](Images/Register.png)                 |
+| Counter Login     | ![Login](Images/ui-counter-login.png)            |
+| Smart Token       | ![Token](Images/ui-smart-token.png)              |
 
 > 📝 **Note**: Screens were created to align with redesigned process activities.
 
@@ -97,7 +97,7 @@ All screens were designed using UI tools. Here are some key pages:
 
 ## 🧩 ER Diagram
 
-🖼️ ![ER Diagram](images/er-diagram.png) <!-- Upload this image -->
+🖼️ ![ER Diagram](Images/er-diagram.png) <!-- Upload this image -->
 
 ---
 
@@ -128,7 +128,7 @@ All screens were designed using UI tools. Here are some key pages:
 
 📽️ Power BI dashboard that shows performance of the system using sample data set:
 
-🖼️ ![Power BI](images/Power_BI.png) <!-- Upload this image -->
+🖼️ ![Power BI](Images/Power_BI.png) <!-- Upload this image -->
 
 ---
 
