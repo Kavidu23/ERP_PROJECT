@@ -24,8 +24,8 @@ This project addresses inefficiencies in the OPD patient registration and receip
 - [UI/UX Prototype](#uiux-prototype)
 - [ER Diagram](#er-diagram)
 - [Infrastructure Requirements](#infrastructure-requirements)
-- [Team Members](#team-members)
 - [Reports & Resources](#reports--resources)
+- [Power BI Dashboard](#powerBI--dashboard)
 
 ---
 
@@ -55,7 +55,7 @@ This project addresses inefficiencies in the OPD patient registration and receip
 - Long queues & doctor counter congestion
 - Redundant data entry in books and systems
 
-🖼️ ![As-Is Process Map](images/as-is-process.png) <!-- Upload this image -->
+🖼️ ![As-Is Process Map](images/As-Is Process Map.png) <!-- Upload this image -->
 
 ### 🔸 To-Be Process (Redesigned)
 
@@ -64,7 +64,7 @@ This project addresses inefficiencies in the OPD patient registration and receip
 - Doctor dashboard with profile & report access
 - AI-assisted report review
 
-🖼️ ![To-Be Process Map](images/to-be-process.png) <!-- Upload this image -->
+🖼️ ![To-Be Process Map](images/To-Be Process Map.png) <!-- Upload this image -->
 
 ---
 
@@ -83,13 +83,13 @@ A **prototype system** (not a working app) designed to:
 
 All screens were designed using UI tools. Here are some key pages:
 
-| Interface         | Screenshot                                          |
-| ----------------- | --------------------------------------------------- |
-| Doctor Dashboard  | ![Doctor Dashboard](images/ui-doctor-dashboard.png) |
-| Prescription Page | ![Prescription](images/ui-prescription.png)         |
-| Patient Register  | ![Register](images/ui-patient-register.png)         |
-| Counter Login     | ![Login](images/ui-counter-login.png)               |
-| Smart Token       | ![Token](images/ui-smart-token.png)                 |
+| Interface         | Screenshot                                       |
+| ----------------- | ------------------------------------------------ |
+| Doctor Dashboard  | ![Doctor Dashboard](images/Doctor Dashboard.png) |
+| Prescription Page | ![Prescription](images/Prescription.png)         |
+| Patient Register  | ![Register](images/Register.png)                 |
+| Counter Login     | ![Login](images/ui-counter-login.png)            |
+| Smart Token       | ![Token](images/ui-smart-token.png)              |
 
 > 📝 **Note**: Screens were created to align with redesigned process activities.
 
@@ -117,22 +117,18 @@ All screens were designed using UI tools. Here are some key pages:
 
 ---
 
-## 👥 Team Members
-
-| Name                          | NSBM ID | Plymouth ID |
-| ----------------------------- | ------- | ----------- |
-| Rateralalage Thilakarathna    | 31229   | 10952412    |
-| Wikcramasinghe Wikcramasinghe | 31741   | 10952401    |
-| Maddumage Abeynayaka          | 29389   | 10952407    |
-| Diythi Gamage                 | 31546   | 10952411    |
-| Palihapitiya Gihan            | 29906   | 10952397    |
-
----
-
 ## 📂 Reports & Resources
 
 📄 [Final Report PDF](./FINAL_REPORT_GROUP_8.pdf)  
 📄 [Interim Report PDF](./Interim_Report_Group_8.pdf)
+
+---
+
+## 📣 Power BI Dashboard
+
+📽️ Power BI dashboard that shows performance of the system using sample data set:
+
+🖼️ ![Power BI](images/Power_BI.png) <!-- Upload this image -->
 
 ---
 
@@ -153,4 +149,4 @@ This project is a **course submission** and not intended for production use.
 
 ---
 
-> ⭐ Designed with care by **Group 8** – PUSL2052 | 2024–2025 | NSBM
+> ⭐ Designed with care by **Kavidu Lakshan** – PUSL2052 | 2024–2025 | PLYMOUTH
