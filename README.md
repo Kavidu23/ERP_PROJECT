@@ -85,7 +85,7 @@ All screens were designed using UI tools. Here are some key pages:
 
 | Interface         | Screenshot                                       |
 | ----------------- | ------------------------------------------------ |
-| Doctor Dashboard  | ![Doctor Dashboard](Images/Doctor Dashboard.png) |
+| Doctor Dashboard  | ![Doctor Dashboard](Images/DoctorDashboard.png) |
 | Prescription Page | ![Prescription](Images/Prescription.png)         |
 | Patient Register  | ![Register](Images/Register.png)                 |
 | Counter Login     | ![Login](Images/ui-counter-login.png)            |
