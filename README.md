@@ -1,4 +1,4 @@
-# 🏥 Smart OPD Receipt System – Group 8
+# 🏥 Smart OPD Receipt System
 
 A system prototype and process redesign solution for improving the **Outpatient Department (OPD) Receipt Issuing Process** at **Homagama Base Hospital**, Sri Lanka.
 
