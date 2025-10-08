@@ -1,4 +1,4 @@
-# 🏥 Smart OPD Receipt System
+# 🏥 Smart OPD Receipt System (BPMN 2.0)
 
 A system prototype and process redesign solution for improving the **Outpatient Department (OPD) Receipt Issuing Process** at **Homagama Base Hospital**, Sri Lanka.
 
@@ -46,7 +46,7 @@ This project addresses inefficiencies in the OPD patient registration and receip
 
 ---
 
-## 🔄 As-Is vs To-Be Process
+## 🔄 As-Is vs To-Be Process (BPMN 2.0)
 
 ### 🔹 As-Is Process (Current)
 
@@ -55,16 +55,16 @@ This project addresses inefficiencies in the OPD patient registration and receip
 - Long queues & doctor counter congestion
 - Redundant data entry in books and systems
 
-🖼️ ![As-Is Process Map](Images/As-Is Process Map.png) <!-- Upload this image -->
+🖼️ ![As-Is Process Map](Images/As-Is.png) <!-- Upload this image -->
 
-### 🔸 To-Be Process (Redesigned)
+### 🔸 To-Be Process (Redesigned) (BPMN 2.0)
 
 - Smart Card or Token with QR Code for identification
 - Queue manager to reduce congestion
 - Doctor dashboard with profile & report access
 - AI-assisted report review
 
-🖼️ ![To-Be Process Map](Images/To-Be Process Map.png) <!-- Upload this image -->
+🖼️ ![To-Be Process Map](Images/To-Be.png) <!-- Upload this image -->
 
 ---
 
