@@ -55,7 +55,7 @@ This project addresses inefficiencies in the OPD patient registration and receip
 - Long queues & doctor counter congestion
 - Redundant data entry in books and systems
 
-🖼️ ![As-Is Process Map](Images/As-Is.png) <!-- Upload this image -->
+🖼️ ![As-Is Process Map](Images/As-is.png) <!-- Upload this image -->
 
 ### 🔸 To-Be Process (Redesigned) (BPMN 2.0)
 
@@ -64,7 +64,7 @@ This project addresses inefficiencies in the OPD patient registration and receip
 - Doctor dashboard with profile & report access
 - AI-assisted report review
 
-🖼️ ![To-Be Process Map](Images/To-Be.png) <!-- Upload this image -->
+🖼️ ![To-Be Process Map](Images/To-be.png) <!-- Upload this image -->
 
 ---
 
